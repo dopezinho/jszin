@@ -55,7 +55,27 @@ if (selecao == 'Brasil') {
 //console.log('oi')
 //console.log('oi')
 
+/*
 for (let x = 0; x <= 3; x++) {
     console.log('oi')
 }
 console.log('Você esqueceu que eu existo?')
+*/
+
+//REPETIÇÕES 2
+
+const bolsa = [
+    'Notebook', 
+    'Moletom',
+    'Escova de dentes',
+    'Celular',
+    'Carteira',
+    'Carregador',
+    'Mouse'
+]
+
+for(let i = 0; i < bolsa.length; i++) {
+    console.log(bolsa[i])
+    if (bolsa[i] == 'Carteira') break
+}
+
