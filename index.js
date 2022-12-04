@@ -64,6 +64,7 @@ console.log('Você esqueceu que eu existo?')
 
 //REPETIÇÕES 2
 
+/*
 const bolsa = [
     'Notebook', 
     'Moletom',
@@ -78,4 +79,15 @@ for(let i = 0; i < bolsa.length; i++) {
     console.log(bolsa[i])
     if (bolsa[i] == 'Carteira') break
 }
+*/
 
+// REPETIÇÕES 3
+
+n = 0;
+x = 0;
+
+while (n < 3) {
+    n++
+    x = x + n
+    console.log(x)
+}
