@@ -1,6 +1,25 @@
-// Variaveis
+// VARIAVEIS
 
+/*
 var A1 = 'Prisma'
 var A1 = 'Corola'
 
 console.log(A1)
+*/
+
+// CONDICIONAIS
+
+/*
+var dinheiro = 70
+console.log(`eu tengo R$${dinheiro}.00`)
+
+if (dinheiro > 50){
+    console.log('comprei memo doido')
+} else {
+    console.log('num tateno')
+}
+*/
+
+// CONDICIONAIS 2
+
+
