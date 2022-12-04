@@ -22,4 +22,10 @@ if (dinheiro > 50){
 
 // CONDICIONAIS 2
 
+var selecao = 'Brasil'
 
+if (selecao == 'Brasil' || selecao == 'Argentina' || selecao == 'Uruguai'){
+    console.log(`${selecao} ja ganho doido`)
+} else {
+    console.log(`${selecao} nunca ganho essa parada`)
+}
