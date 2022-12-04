@@ -34,6 +34,7 @@ if (selecao == 'Brasil' || selecao == 'Argentina' || selecao == 'Uruguai'){
 
 //CONDICIONAIS 3
 
+/*
 var selecao = 'manadiocarolapombarolingope'
 
 if (selecao == 'Brasil') {
@@ -43,3 +44,18 @@ if (selecao == 'Brasil') {
 } else {
     console.log(`ixii ${selecao} nunca ganho bb`)
 }
+*/
+
+//REPETIÇÕES
+
+//console.log('oi')
+//console.log('oi')
+//console.log('oi')
+//console.log('oi')
+//console.log('oi')
+//console.log('oi')
+
+for (let x = 0; x <= 3; x++) {
+    console.log('oi')
+}
+console.log('Você esqueceu que eu existo?')
